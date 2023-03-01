@@ -1,0 +1,33 @@
+<html lang="es">
+<head>
+<title>Iframe</title>
+<meta charset="iso-8859-2" />
+</head>
+<body style="font-family:Arial; font-size:12px;">
+<table style="width:75%; text-align:center; margin:auto" border="1">
+<tr>
+<td><a href="ejercicio1.html" target="visor">1</a></td>
+<td><a href="ejercicio2.html" target="visor">2</a></td>
+<td><a href="ejercicio3.html" target="visor">3</a></td>
+<td><a href="ejercicio4.html" target="visor">4</a></td>
+<td><a href="ejercicio5.html" target="visor">5</a></td>
+</tr>
+<tr>
+<td><a href="ejercicio6.html" target="visor">6</a></td>
+<td><a href="ejercicio7.html" target="visor">7</a></td>
+<td><a href="ejercicio8.html" target="visor">8</a></td>
+<td><a href="ejercicio9.html" target="visor">9</a></td>
+<td><a href="ejercicio10.html" target="visor">10</a></td>
+</tr>
+<tr>
+<td><a href="ejercicio11.html" target="visor">11</a></td>
+<td><a href="ejercicio12.html" target="visor">12</a></td>
+<td><a href="ejercicio13.html" target="visor">13</a></td>
+<td><a href="ejercicio14.html" target="visor">14</a></td>
+<td><a href="ejercicio15.html" target="visor">15</a></td>
+</tr>
+</table>
+<p>&nbsp;</p>
+<iframe name="visor" width="500" height="400" style="margin:auto; display:block;"></iframe>
+</body>
+</html>
